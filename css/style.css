@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    font-family: Helvetica;
+
+    p{
+        font-size: 18px;
+    }
+}
+
+header{
+    h1, nav, ul, li{
+        display: inline;
+    }
+}
+
+img{
+    padding-top: 10px;
+    width: 50vw;
+}
+
+ol{
+    li{
+        padding-top:10px;
+    }
+}
