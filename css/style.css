@@ -9,6 +9,7 @@ body{
 
 header{
     h1, nav, ul, li{
+        padding: 15px;
         display: inline;
     }
 }
